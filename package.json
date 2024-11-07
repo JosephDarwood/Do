@@ -1,0 +1,23 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "TODO Application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JosephDarwood/Do.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JosephDarwood/Do/issues"
+  },
+  "homepage": "https://github.com/JosephDarwood/Do#readme",
+  "devDependencies": {
+    "electron": "^33.1.0"
+  }
+}
